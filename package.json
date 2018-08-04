@@ -1,0 +1,10 @@
+{
+  "name": "thiagoloal",
+  "version": "1.0.0",
+  "description": "site thiago almeida",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
