@@ -1,17 +1,19 @@
 {
   "name": "thiagoloal",
-  "version": "1.0.0",
-  "description": "site thiago almeida",
-  "main": "index.js",
-  "license": "MIT",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start": "node index"
+    "start": "nodemon ./bin/www"
   },
-  "author": "",
   "dependencies": {
-    "check-node-version": "^2.1.0",
-    "cluster": "^0.7.7",
-    "express": "^4.15.2",
-    "os": "^0.1.1"
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.2.7",
+    "morgan": "~1.9.0",
+    "nodemon": "^1.18.3",
+    "pug": "2.0.0-beta11",
+    "stylus": "0.54.5"
   }
 }
