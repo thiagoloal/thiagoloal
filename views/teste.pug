@@ -1,7 +1,12 @@
-extends layout
+extend ./components/head
 
 block content
-  .t-construction
-    figure.t-construction_image
-      img(src='https://media.giphy.com/media/xT9IgnS1z4sA5e5N0A/giphy.gif')
-    p.t-construction_title site under construction
+  .t-opening
+    .t-opening--nav
+      p logo aqui
+    nav.t-opening--nav
+      a Portifólio
+      a Contato
+      a Sobre
+  .t-sol
+    img(src="/images/sol.svg")

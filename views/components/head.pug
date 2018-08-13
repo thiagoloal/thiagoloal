@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/css/main.css')
+    script(src="js/main.js")
+  body
+    .svg-container(style="position: fixed;overflow: hidden;width:100vw; height:100vh; top: 0vh; left: 0")
+      svg(viewBox="0 0 100 100" width="100vw" height="100vh" preserveAspectRatio="none")
+        path(d="M 0,0 L 0, 100" stroke="pink" stroke-width="0.05")
+        path(d="M 5,0 L 5, 100" stroke="pink" stroke-width="0.05")
+        path(d="M 10,0 L 10, 100" stroke="pink" stroke-width="0.05")
+        path(d="M 15,0 L 15, 100" stroke="pink" stroke-width="0.05")
+    main.t-container
+      block content
