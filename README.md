@@ -16,7 +16,7 @@
 🌱 I’m a brazilian Front-end developer, who is migranting my things to github</br>
 👨‍💻  I am passionate about Design and Web Dev</br>
 
-![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=thiagoloal&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <!--START_SECTION:waka-->
 ```text
 JavaScript   ██████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░   34.61 % 
