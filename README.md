@@ -13,7 +13,7 @@
 - 📖. Current studying [Svelte](https://svelte.dev/)&nbsp;&nbsp; and [Unity](https://unity.com/)
 - 🎮  Participating for the first time in the [Github Game Off](https://itch.io/jam/game-off-2021)
 
-![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=thiagoloal&show_icons=true&hide_border=true)&nbsp;&nbsp;
+<!-- ![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=thiagoloal&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
 📊 This week I spent my time working on
 <!--START_SECTION:waka-->
