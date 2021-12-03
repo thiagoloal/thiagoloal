@@ -10,8 +10,7 @@
 ### About Me 🚀
 - 🌱  I’m a brazilian Front-end developer, who is migranting my things to github</br>
 - 👨‍💻  I am passionate about Design and Web Development</br>
-- 📖. Current studying [Svelte](https://svelte.dev/)&nbsp;&nbsp; and [Unity](https://unity.com/)
-- 🎮  Participating for the first time in the [Github Game Off](https://itch.io/jam/game-off-2021)
+- 📖. Current studying [Svelte](https://svelte.dev/)&nbsp;&nbsp
 
 <!-- ![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=thiagoloal&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
