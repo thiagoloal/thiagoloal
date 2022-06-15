@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://www.linkedin.com/in/thiago-almeida-69785569/">Thiago Almeida</a></h2>
+<h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://www.linkedin.com/in/thiago-almeida-69785569/">Thiago Almeida</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-almeida-69785569/">LinkedIn</a> •
   <a href="https://twitter.com/thiagoloal">Twitter</a> •
