@@ -8,9 +8,8 @@
 </p>
 
 ### About Me 🚀
-- 🌱  I’m a brazilian Front-end developer, who is migranting my things to github</br>
+- 🌱  I’m a brazilian Front-end developer</br>
 - 👨‍💻  I am passionate about Design and Web Development</br>
-- 📖. Current studying [Svelte](https://svelte.dev/)
 
 <!-- ![Thiago Almeida github stats](https://github-readme-stats.vercel.app/api?username=thiagoloal&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
