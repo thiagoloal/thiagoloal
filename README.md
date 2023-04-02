@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                        ██████████▒░░░░░░░░░░░░░░   40.74 %
-JSON                              ████████▒░░░░░░░░░░░░░░░░   33.47 %
-Gettext Catalog                   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-Groovy                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
