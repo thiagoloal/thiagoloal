@@ -17,7 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript                        █████████████████████████   99.83 %
+Gettext Catalog                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
